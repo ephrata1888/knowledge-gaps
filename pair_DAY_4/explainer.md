@@ -1,6 +1,6 @@
 # Why a Silent Default Breaks Your Benchmark: Defensive Patterns for Deterministic Evaluators
 
-*Week 12 · Day 4 · Written by Efrata Wolde for [Partner Name]*
+*Week 12 · Day 4 · Written by Efrata Wolde for Mikias Dagem
 
 ---
 
